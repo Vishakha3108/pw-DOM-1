@@ -1,0 +1,17 @@
+  .dark-mode {
+    background-color: black;
+    color: white;
+  }
+
+  .light-mode {
+    background-color: white;
+    color: black;
+  }
+  .light-h {
+    background-color: white;
+    color: black;
+  }
+  .dark-h {
+    background-color: black;
+    color: white;
+  }
